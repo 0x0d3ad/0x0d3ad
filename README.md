@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MiawOren</h1>
-<h3 align="center">IT Security Enthusiast | Red Team | HackTheBox Player | PUBG Mobile Player</h3>
+<h3 align="center">IT Security Enthusiast | Red Team | HackTheBox Player</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0x0d3ad&label=Profile%20views&color=0e75b6&style=flat" alt="0x0d3ad" /> </p>
 
 ## HackTheBox Stats
