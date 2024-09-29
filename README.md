@@ -8,8 +8,6 @@
 ---
 
 ## GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x0d3ad&theme=juicyfresh" alt="0x0d3ad" /></a> </p>
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=0x0d3ad&theme=dark&background=000000" alt="0x0d3ad" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0d3ad&layout=compact&theme=vision-friendly-dark" alt="0x0d3ad" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x0d3ad&=anuraghazra&theme=vision-friendly-dark" alt="0x0d3ad" /></p>
 
